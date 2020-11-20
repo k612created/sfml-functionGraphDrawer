@@ -1,0 +1,3 @@
+#ifndef SFML_FGD_SIMPLEFUNCTIONPARSER_H
+#define SFML_FGD_SIMPLEFUNCTIONPARSER_H
+#define Linear_Function(k, b) \
