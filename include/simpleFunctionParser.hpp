@@ -1,3 +1,13 @@
 #ifndef SFML_FGD_SIMPLEFUNCTIONPARSER_H
 #define SFML_FGD_SIMPLEFUNCTIONPARSER_H
-#define Linear_Function(k, b) \
+#include <cstdio>
+#include "simpleFunction.hpp"
+using namespace std;
+
+
+
+class FunctionParser {
+	
+};
+
+#endif
